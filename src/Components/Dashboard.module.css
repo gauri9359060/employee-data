@@ -1,0 +1,8 @@
+.dataContainer{
+    border: 3px solid gray;
+    padding: 20px;
+    width: 20%;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 30px;
+}

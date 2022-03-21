@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "name": "Gauri",
+      "department": "Finance",
+      "gender": "Female",
+      "role": "Manager",
+      "salary": 20000,
+      "id": 1
+    },
+    {
+      "name": "Joy",
+      "department": "Marketing",
+      "gender": "Male",
+      "role": "Head",
+      "salary": 25000,
+      "id": 2
+    },
+    {
+      "name": "Jenny",
+      "department": "IT",
+      "gender": "Female",
+      "role": "Developer",
+      "salary": 60000,
+      "id": 3
+    },
+    {
+      "name": "Herry",
+      "department": "HR",
+      "gender": "Male",
+      "role": "HR Manager",
+      "salary": 54000,
+      "id": 4
+    },
+    {
+      "name": "Sweety",
+      "department": "IT",
+      "gender": "Female",
+      "role": "Software Engineer",
+      "salary": 62000,
+      "id": 5
+    },
+    {
+      "name": "Sham",
+      "department": "Marketing",
+      "gender": "Male",
+      "role": "Sales Head",
+      "salary": 20000,
+      "id": 6
+    },
+    {
+      "name": "Ram",
+      "department": "Finance",
+      "gender": "Male",
+      "role": "Head",
+      "salary": 9100,
+      "id": 7
+    },
+    {
+      "name": "Jenifer",
+      "department": "HR",
+      "gender": "Female",
+      "role": "HR",
+      "salary": 36000,
+      "id": 8
+    },
+    {
+      "name": "Ram",
+      "department": "IT",
+      "gender": "Male",
+      "role": "Head",
+      "salary": 80000,
+      "id": 9
+    }
+  ]
+}
